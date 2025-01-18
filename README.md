@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, my name is Kimon! 👋
+
+- 👨‍🎓 graduated from San Francisco State University with a Computer Science degree
+- 🏠 living in San Francisco, CA
+- 👨🏽‍💻 looking for a software engineering role
+
+![cartoon of someone coding](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg)
 
 <!--
 **kimonmono986/kimonmono986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
