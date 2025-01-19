@@ -3,7 +3,7 @@
 - 👨‍🎓 graduated from San Francisco State University with a Computer Science degree
 - 🏠 living in San Francisco, CA
 - 👨🏽‍💻 looking for a software engineering role
-- 🎹 besides coding I love everything to do with music
+- 🎹 besides coding, I love everything to do with music
 
 ## Technologies
 <div style="display: flex; flex-wrap: wrap;">
