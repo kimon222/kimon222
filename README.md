@@ -2,6 +2,7 @@
 
 - 👨‍🎓 graduated from San Francisco State University with a Computer Science degree
 - 🏠 living in San Francisco, CA
+- ⚛️ interested in full stack development
 - 👨🏽‍💻 looking for a software engineering role
 - 🎹 besides coding, I love everything to do with music
 
