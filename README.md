@@ -1,4 +1,4 @@
-## Hi, my name is Kimon! 👋
+## Welcome to my GitHub page 
 
 - 👨‍🎓 graduated from San Francisco State University with a Computer Science degree
 - 🏠 living in San Francisco, CA
