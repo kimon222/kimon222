@@ -1,9 +1,8 @@
-## Welcome to my GitHub page 
+## Welcome to my GitHub page !
 
 - 👨‍🎓 graduated from San Francisco State University with a Computer Science degree
-- 🏠 living in San Francisco, CA
+- 🏠 living in San Francisco, Bay Area
 - 👨🏽‍💻 actively looking for jobs
-- 🎹 besides coding, I love everything to do with music
 
 ## Technologies
 <div style="display: flex; flex-wrap: wrap;">
