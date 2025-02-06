@@ -1,10 +1,5 @@
-## Welcome to my GitHub page !
+## Welcome to my GitHub page!
 
-- 👨‍🎓 graduated from San Francisco State University with a Computer Science degree
-- 🏠 living in San Francisco, Bay Area
-- 👨🏽‍💻 actively looking for jobs
-
-## Technologies
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
