@@ -2,17 +2,6 @@
 
 ### favorite technologies:
 
-<ul>
-  <li>React.js</li>
-  <li>Sass</li>
-  <li>Figma</li>
-  <li>Swift</li>
-  <li>Python</li>
-  <li>Ruby</li>
-  <li>MySQL</li>
-  <li>Docker</li>
-</ul>
-
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
