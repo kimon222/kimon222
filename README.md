@@ -1,4 +1,4 @@
-## Welcome to my GitHub page!
+## Hello, my name is Kimon!
 
 ### Technologies:
 
