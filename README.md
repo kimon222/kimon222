@@ -1,6 +1,6 @@
 ## hi, my name is Kimon!
 
-### favorite technologies:
+### favorite technologies 💻 
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
