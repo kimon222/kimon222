@@ -13,6 +13,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </div>
 
+<ul>
+  <li>React.js</li>
+  <li>Sass</li>
+  <li>Figma</li>
+  <li>Swift</li>
+  <li>Python</li>
+  <li>Ruby</li>
+  <li>MySQL</li>
+  <li>Docker</li>
+</ul>
 
 
 
