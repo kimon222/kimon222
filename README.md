@@ -1,4 +1,4 @@
-## hi, my name is Kimon!
+## hi, my name is kimon!
 
 ### favorite technologies 💻 
 
