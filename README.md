@@ -28,7 +28,7 @@
   <li>Home page for fictional company: https://github.com/kimonmono986/project_design_company</li>
 </ul>
 
-#### javascript
+#### react
 <ul>
   <li>Note App: https://github.com/kimonmono986/NoteManager</li>
   <li>To-do list: https://github.com/kimonmono986/ProjectDesk</li>
