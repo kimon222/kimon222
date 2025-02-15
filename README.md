@@ -15,7 +15,7 @@
 
 #### readme
 <ul>
-  <li>Read me for the profile page: https://github.com/kimonmono986/kimonmono986</li>
+  <li>Read me for my profile page: https://github.com/kimonmono986/kimonmono986</li>
 </ul>
 
 #### html + css
