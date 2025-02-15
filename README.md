@@ -13,16 +13,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </div>
 
-### projects
+### files
+
+#### readme
+<ul>
+  <li>Read me for the profile page: https://github.com/kimonmono986/kimonmono986</li>
+</ul>
+
+#### html + css
+<ul>
+  <li>Personal Website: https://github.com/kimonmono986/kimonmono986.github.io</li>
+  <li>Landing Page: https://github.com/kimonmono986/landing_page</li>
+  <li>Hotel Landing Page: https://github.com/kimonmono986/dubai_desktop</li>
+  <li>Hotel Landing Page (mobile): https://github.com/kimonmono986/project_dubai_mobile
+  <li>Responsive personal website: https://github.com/kimonmono986/personal_website_responsive</li>
+  <li>Home page for fictional company: https://github.com/kimonmono986/project_design_company</li>
+</ul>
+
+#### javascript
+<ul>
+  <li>Note App: https://github.com/kimonmono986/NoteManager</li>
+  <li>To-do list: https://github.com/kimonmono986/ProjectDesk</li>
+  <li>Photo App: https://github.com/kimonmono986/photo-app-react</li>
+</ul>
 
 #### full stack
 <ul>
   <li>SignMe: https://github.com/dev-mission/fellowship2022-signup</li>
+  <li>KindnessApp: https://github.com/kimonmono986/kindnessapp</li>
 </ul>
 
 #### AI 
 <ul>
-  <li>FindMySong: [github.com](github.com)</li>
+  <li>FindMySong: https://github.com/kimonmono986/langchain-findmysong</li>
+  <li>AI Map Project: https://github.com/kimonmono986/AI-Map-Project</li>
 </ul>
 
 <!--
