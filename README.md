@@ -31,8 +31,6 @@
 #### react
 <ul>
   <li>Note App: https://github.com/kimonmono986/NoteManager</li>
-  <li>To-do list: https://github.com/kimonmono986/ProjectDesk</li>
-  <li>Photo App: https://github.com/kimonmono986/photo-app-react</li>
 </ul>
 
 #### full stack
