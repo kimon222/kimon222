@@ -17,7 +17,7 @@
 
 #### full stack
 <ul>
-  <li>SignMe: [](https://github.com/dev-mission/fellowship2022-signup)</li>
+  <li>SignMe: https://github.com/dev-mission/fellowship2022-signup</li>
 </ul>
 
 #### AI 
