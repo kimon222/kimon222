@@ -13,7 +13,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </div>
 
+### full-stack projects
+<ul>
+  <li>SignMe: [github.com](github.com)</li>
+</ul>
 
+### AI projects
+<ul>
+  <li>FindMySong: [github.com](github.com)</li>
+</ul>
 
 <!--
 **kimonmono986/kimonmono986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
