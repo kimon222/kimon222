@@ -13,8 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </div>
 
-### files
-
 #### readme
 <ul>
   <li>Read me for the profile page: https://github.com/kimonmono986/kimonmono986</li>
