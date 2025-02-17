@@ -18,9 +18,13 @@ https://kimon222.github.io
 
 **Main Projects**
 
+---
+
 Coming soon
 
 **Side Projects**
+
+---
 
 **FinanceBot**: AI-Powered Financial Analyst Chatbot  
 [GitHub Repo Link](https://github.com/kimon222/FinanceBot)
@@ -33,8 +37,6 @@ It provides investment recommendations and stock forecasts based on publicly ava
 - Powered by OpenAI’s GPT-4 for financial insights.
 - Estimated investment percentages for stock performance.  
 - Interactive UI with a stock market-themed background.
-
----
 
 
 <!--
