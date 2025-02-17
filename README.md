@@ -2,7 +2,7 @@
 
 ### My portfolio (live site): https://kimon222.github.io
 
-<div style="display:flex; flex-wrap: wrap">
+<div style="display:flex; flex-direction:row; flex-wrap: wrap">
   <h3>Tools:</h3> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align: middle;" />
