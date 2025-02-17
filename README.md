@@ -12,12 +12,12 @@
   <li>Readme for my profile page: https://github.com/kimon222/kimon222</li>
 </ul>
 
-#### Portfolio
+#### Portfolio (v0 - Next.js, Tailwind CSS)
 <ul>
   <li>Portfolio & Personal Website: https://github.com/kimon222/kimon222.github.io</li>
 </ul>
 
-#### AI 
+#### AI (LangChain, Streamlit)
 <ul>
   <li>FindMySong: https://github.com/kimonmono986/langchain-findmysong</li>
   <li>AI Map Project: https://github.com/kimonmono986/AI-Map-Project</li>
