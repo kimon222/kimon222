@@ -9,7 +9,7 @@
 
 #### Readme
 <ul>
-  <li>readme for my profile page: https://github.com/kimon222/kimon222</li>
+  <li>Readme for my profile page: https://github.com/kimon222/kimon222</li>
 </ul>
 
 #### Portfolio
