@@ -1,13 +1,13 @@
-## hi, my name is kimon!
+## Hi, my name is Kimon!
 
-### favorite technologies 💻 
+### Favorite Technologies 💻 
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </div>
 
-#### readme
+#### Readme
 <ul>
   <li>readme for my profile page: https://github.com/kimon222/kimon222</li>
 </ul>
