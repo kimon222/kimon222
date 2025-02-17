@@ -31,7 +31,7 @@ Coming soon
 ---
 
 **FinanceBot**: AI-Powered Financial Analyst Chatbot  
-[GitHub Repo Link](https://github.com/kimon222/FinanceBot)
+https://github.com/kimon222/FinanceBot
 
 FinanceBot is a Python-based chatbot that offers personalized financial advice and stock analysis using OpenAI's GPT-4 model.  
 It provides investment recommendations and stock forecasts based on publicly available data.
