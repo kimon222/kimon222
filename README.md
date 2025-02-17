@@ -1,6 +1,6 @@
 ## Hi, my name is Kimon!
 
-### Check out my portfolio: https://kimon222.github.io
+### My portfolio (live site): https://kimon222.github.io
 
 ### Favorite Technologies 💻 
 
