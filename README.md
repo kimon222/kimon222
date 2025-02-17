@@ -13,10 +13,14 @@ https://kimon222.github.io
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" />
 </div>
+\n
+---
 
 **Main Projects**
 
 Coming soon
+
+---
 
 **Side Projects**
 
