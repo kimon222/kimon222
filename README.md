@@ -12,7 +12,7 @@
   <li>Readme for my profile page: https://github.com/kimon222/kimon222</li>
 </ul>
 
-#### Portfolio (v0 - Next.js, Tailwind CSS)
+#### Portfolio (Built with claude.ai)
 <ul>
   <li>Portfolio & Personal Website: https://github.com/kimon222/kimon222.github.io</li>
 </ul>
