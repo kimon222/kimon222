@@ -14,19 +14,13 @@ https://kimon222.github.io
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" />
 </div>
 
----
+
 
 **Main Projects**
 
----
-
 Coming soon
 
----
-
 **Side Projects**
-
----
 
 **FinanceBot**: AI-Powered Financial Analyst Chatbot  
 [GitHub Repo Link](https://github.com/kimon222/FinanceBot)
