@@ -14,9 +14,21 @@ https://kimon222.github.io
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" />
 </div>
 
+### Main Projects
 
+### Side Projects
 
-### Projects
+#### FinanceBot: AI-Powered Financial Analyst Chatbot - https://github.com/kimon222/FinanceBot
+
+FinanceBot is a Python-based AI chatbot designed to offer financial advice and stock analysis using OpenAI's GPT-4 model. The bot provides users with personalized investment recommendations, forecasts, and financial insights, leveraging publicly available stock information. It generates responses that suggest whether a stock is a good investment, estimates a chance of appreciation, and provides useful data from reliable financial sources.
+
+##### Key Features:
+<ul>
+  <li>Conversational interface for real-time stock analysis.</li>
+  <li>Utilizes OpenAI’s GPT-4 model to simulate a financial analyst's expertise.</li>
+  <li>Generates concise financial recommendations with estimated percentages for stock performance.</li>
+  <li>Simple and interactive UI with a stock market-themed background.</li>
+</ul>
 
 <!--
 **kimonmono986/kimonmono986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
