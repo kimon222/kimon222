@@ -2,12 +2,11 @@
 
 ### My portfolio (live site): https://kimon222.github.io
 
-<h3 style="display: inline; vertical-align: middle;">Tools:</h3> 
-<span style="display: inline-block; vertical-align: middle;">
+<div style="display:flex; flex-wrap: wrap">
+  <h3>Tools:</h3> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align: middle;" />
-</span>
-
+</div>
 
 
 ### Projects
