@@ -2,7 +2,8 @@
 
 ### My portfolio (live site): https://kimon222.github.io
 
-### Tools: <span style="display: inline-block; vertical-align: middle;">
+<h3 style="display: inline; vertical-align: middle;">Tools:</h3> 
+<span style="display: inline-block; vertical-align: middle;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="vertical-align: middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="vertical-align: middle;" />
 </span>
