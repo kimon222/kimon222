@@ -1,6 +1,7 @@
 ## Hi, my name is Kimon!
 
-### My portfolio (live site): https://kimon222.github.io
+### Portfolio
+https://kimon222.github.io
 
 <div style="display:flex; flex-wrap: wrap">
   <h3>Tools: </h3> 
