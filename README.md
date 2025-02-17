@@ -1,5 +1,7 @@
 ## Hi, my name is Kimon!
 
+### Check out my portfolio: https://kimon222.github.io
+
 ### Favorite Technologies 💻 
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -7,21 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </div>
 
-#### Readme
-<ul>
-  <li>Readme for my profile page: https://github.com/kimon222/kimon222</li>
-</ul>
-
-#### Portfolio (Built with claude.ai)
-<ul>
-  <li>Portfolio & Personal Website: https://github.com/kimon222/kimon222.github.io</li>
-</ul>
-
-#### AI (LangChain, Streamlit)
-<ul>
-  <li>FindMySong: https://github.com/kimonmono986/langchain-findmysong</li>
-  <li>AI Map Project: https://github.com/kimonmono986/AI-Map-Project</li>
-</ul>
+### Projects
 
 <!--
 **kimonmono986/kimonmono986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
