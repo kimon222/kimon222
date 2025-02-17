@@ -16,6 +16,7 @@ https://kimon222.github.io
 
 <br/>
 <br/>
+
 **Main Projects**
 
 ---
@@ -24,6 +25,7 @@ Coming soon
 
 <br/>
 <br/>
+
 **Side Projects**
 
 ---
