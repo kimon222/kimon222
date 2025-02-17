@@ -12,6 +12,11 @@
   <li>readme for my profile page: https://github.com/kimon222/kimon222</li>
 </ul>
 
+#### Portfolio
+<ul>
+  <li>Portfolio & Personal Website: https://github.com/kimon222/kimon222.github.io</li>
+</ul>
+
 #### AI 
 <ul>
   <li>FindMySong: https://github.com/kimonmono986/langchain-findmysong</li>
