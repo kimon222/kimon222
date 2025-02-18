@@ -21,7 +21,16 @@ https://kimon222.github.io
 
 ---
 
-Coming soon
+**Financial News Sentiment Analysis**: Classifying Financial News Headlines
+https://github.com/kimon222/financial-news-sentiment-analysis
+
+Financial News Sentiment Analysis is a Python-based tool that classifies financial news headlines as Bullish or Bearish. It uses VADER for sentiment analysis and a Random Forest model to predict stock market movements.
+
+**Key Features**:
+- Sentiment classification of financial headlines.
+- Powered by VADER for text analysis.
+- Uses a Random Forest Classifier to predict stock trends.
+- Visualizes sentiment distribution and model performance.
 
 <br/>
 <br/>
