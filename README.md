@@ -14,9 +14,6 @@ https://kimon222.github.io
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" />
 </div>
 
-<br/>
-<br/>
-
 **Main Projects**
 
 ---
