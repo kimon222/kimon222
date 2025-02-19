@@ -15,7 +15,6 @@ https://kimon222.github.io
 </div>
 
 <br/>
-<br/>
 
 ### 📊Main Projects
 
