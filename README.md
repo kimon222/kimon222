@@ -44,8 +44,6 @@ Financial News Sentiment Analysis is a Python-based tool that classifies financi
 - Uses a Random Forest Classifier to predict stock trends.
 - Visualizes sentiment distribution and model performance.
 
-<br/>
-
 ### 📈Side Projects
 
 ---
