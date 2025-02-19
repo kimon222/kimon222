@@ -21,7 +21,7 @@ https://kimon222.github.io
 ---
 
 **Stock Price Prediction**: Predicts Stock Behavior Using S&P 500 Data<br/>
-https://github.com/kimon222/stock-market-prediction
+https://github.com/kimon222/stock-market-analysis-forecasting
 
 This Python-based tool predicts stock prices for S&P 500 companies using historical data. It leverages a Random Forest Regressor model to forecast future prices based on patterns in the data.
 
