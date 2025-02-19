@@ -17,7 +17,7 @@ https://kimon222.github.io
 <br/>
 <br/>
 
-**📊Main Projects**
+### 📊Main Projects
 
 ---
 
@@ -47,7 +47,7 @@ Financial News Sentiment Analysis is a Python-based tool that classifies financi
 
 <br/>
 
-**📈Side Projects**
+### 📈Side Projects
 
 ---
 
