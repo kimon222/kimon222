@@ -1,6 +1,6 @@
 ## Hi, my name is Kimon!
 
-### Portfolio - Live
+### 💻 Portfolio - Live
 https://kimon222.github.io
 
 <div style="display:flex; flex-wrap: wrap">
@@ -17,7 +17,7 @@ https://kimon222.github.io
 <br/>
 <br/>
 
-**Main Projects**
+**📊Main Projects**
 
 ---
 
@@ -31,8 +31,6 @@ This Python-based tool predicts stock prices for S&P 500 companies using histori
 - Utilizes a Random Forest Regressor model for price prediction.
 - Saves stock data to an SQLite database for easy retrieval and analysis.
 - Visualizes model performance, including predicted vs. actual stock prices and feature importance.
-
-<br/>
 
 ---
 
@@ -49,7 +47,7 @@ Financial News Sentiment Analysis is a Python-based tool that classifies financi
 
 <br/>
 
-**Side Projects**
+**📈Side Projects**
 
 ---
 
