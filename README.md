@@ -20,7 +20,7 @@ https://kimon222.github.io
 
 ---
 
-**Stock Price Prediction**: Predicts Stock Behavior Using S&P 500 Data<br/>
+**♦️Stock Price Prediction**: Predicts Stock Behavior Using S&P 500 Data<br/>
 https://github.com/kimon222/stock-market-analysis-forecasting
 
 This Python-based tool predicts stock prices for S&P 500 companies using historical data. It uses a Random Forest Regressor model to forecast future prices based on patterns in the data.
@@ -33,7 +33,7 @@ This Python-based tool predicts stock prices for S&P 500 companies using histori
 
 ---
 
-**Financial News Sentiment Analysis**: Classifying Financial News Headlines<br/>
+**♦️Financial News Sentiment Analysis**: Classifying Financial News Headlines<br/>
 https://github.com/kimon222/financial-news-sentiment-analysis
 
 Financial News Sentiment Analysis is a Python-based tool that classifies financial news headlines as Bullish or Bearish. It uses VADER for sentiment analysis and a Random Forest model to predict stock market movements.
@@ -50,7 +50,7 @@ Financial News Sentiment Analysis is a Python-based tool that classifies financi
 
 ---
 
-**FinanceBot**: AI-Powered Financial Analyst Chatbot  
+**♦️FinanceBot**: AI-Powered Financial Analyst Chatbot  
 https://github.com/kimon222/FinanceBot
 
 FinanceBot is a Python-based chatbot that offers personalized financial advice and stock analysis using OpenAI's GPT-4 model.  
