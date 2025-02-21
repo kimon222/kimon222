@@ -1,7 +1,7 @@
 ## Hi, I'm Kimon! 
 I’m an aspiring LLM Engineer passionate about building cutting-edge AI-powered solutions using Large Language Models (LLMs). My goal is to apply the latest advancements in Natural Language Processing (NLP) and machine learning to create applications that understand and generate human language.
 
-🔗 Portfolio: kimon222.github.io
+🔗 Portfolio: https://kimon222.github.io
 
 ---
 
