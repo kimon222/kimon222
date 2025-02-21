@@ -31,7 +31,7 @@ I’m actively growing my skill set in LLM engineering, experimenting with fine-
 
 ---
 
-### Let's Connect!
+### 💌 Let's Connect!
 
 Feel free to check back soon for updates on my projects. If you’re passionate about LLM engineering or have any advice to share, don’t hesitate to reach out! Let’s build something great together.
 
