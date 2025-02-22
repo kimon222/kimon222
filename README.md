@@ -1,8 +1,5 @@
 ## Hi, my name is Kimon!
 
-### ✨Portfolio - Live
-https://kimon222.github.io
-
 <div style="display:flex; flex-wrap: wrap">
   <h3>🧰Tools</h3> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
