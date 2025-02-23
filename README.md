@@ -1,5 +1,8 @@
 ## Hi, my name is Kimon!
-### interested in ai x finance x web3
+### 👨🏽‍💻Interests
+- AI
+- Finance
+- Web3
 
 <div style="display:flex; flex-wrap: wrap">
   <h3>🧰Tools</h3> 
