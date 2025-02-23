@@ -14,8 +14,6 @@ AI | Finance | Web3
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" />
 </div>
 
----
-
 ### 📊Finance Projects
 
 ---
