@@ -1,4 +1,5 @@
 ## Hi, my name is Kimon!
+### interested in ai x finance x web3
 
 <div style="display:flex; flex-wrap: wrap">
   <h3>🧰Tools</h3> 
@@ -13,7 +14,7 @@
 
 <br/>
 
-### 📊Main Projects
+### 📊Finance Projects
 
 ---
 
@@ -43,7 +44,7 @@ Financial News Sentiment Analysis is a Python-based tool that classifies financi
 
 <br/>
 
-### 📈Side Projects
+### 🧪AI Projects 
 
 ---
 
