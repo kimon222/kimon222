@@ -1,6 +1,11 @@
 ## Hi, my name is Kimon!
+
+---
+
 ### 👨🏽‍💻Interests
 AI | Finance | Web3
+
+---
 
 <div style="display:flex; flex-wrap: wrap">
   <h3>🧰Tools</h3> 
@@ -13,7 +18,7 @@ AI | Finance | Web3
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" />
 </div>
 
-<br/>
+---
 
 ### 📊Finance Projects
 
