@@ -19,29 +19,8 @@ AI | Finance | Web3
 
 ---
 
-**🔹Stock Price Prediction**: Predicts Stock Behavior Using S&P 500 Data<br/>
-https://github.com/kimon222/stock-market-analysis-forecasting
-
-This Python-based tool predicts stock prices for S&P 500 companies using historical data. It uses a Random Forest Regressor model to forecast future prices based on patterns in the data.
-
-**Key Features**:
-- Predicts stock prices of S&P 500 companies using historical data.
-- Utilizes a Random Forest Regressor model for price prediction.
-- Saves stock data to an SQLite database for easy retrieval and analysis.
-- Visualizes model performance, including predicted vs. actual stock prices and feature importance.
-
----
-
-**🔹Financial News Sentiment Analysis**: Classifying Financial News Headlines<br/>
-https://github.com/kimon222/financial-news-sentiment-analysis
-
-Financial News Sentiment Analysis is a Python-based tool that classifies financial news headlines as Bullish or Bearish. It uses VADER for sentiment analysis and a Random Forest model to predict stock market movements.
-
-**Key Features**:
-- Sentiment classification of financial headlines.
-- Powered by VADER for text analysis.
-- Uses a Random Forest Classifier to predict stock trends.
-- Visualizes sentiment distribution and model performance.
+- **Stock Price Prediction**: Predicts Stock Behavior Using S&P 500 Data: https://github.com/kimon222/stock-market-analysis-forecasting
+- **Financial News Sentiment Analysis**: Classifying Financial News Headlines: https://github.com/kimon222/financial-news-sentiment-analysis
 
 <br/>
 
