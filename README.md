@@ -1,7 +1,5 @@
 ## Hi, my name is Kimon!
 
----
-
 ### 👨🏽‍💻Interests
 AI | Finance | Web3
 
