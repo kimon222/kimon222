@@ -18,7 +18,7 @@ AI x Finance
 
 ---
 
-- **Stock Price Prediction**: Predicts Stock Behavior Using S&P 500 Data: https://github.com/kimon222/stock-market-analysis-forecasting
+- **Stock Market Forecasting**: Predicts Stock Behavior Using S&P 500 Data: https://github.com/kimon222/stock-market-analysis-forecasting
 - **Financial News Sentiment Analysis**: Classifying Financial News Headlines: https://github.com/kimon222/financial-news-sentiment-analysis
 
 ### 🧪AI Projects 
