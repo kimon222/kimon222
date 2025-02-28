@@ -26,7 +26,7 @@ AI x Finance
 ---
 
 - **FinanceBot**: AI-Powered Financial Analyst Chatbot: https://github.com/kimon222/FinanceBot
-- **ETF Analyzer**: Visualizes documents containing information about ETFs in 3D vector space: https://github.com/kimon222/ETF_Analyzer_VectorDB
+- **ETF Analyzer**: Visualizes documents containing information about ETFs in 3D vector space using RAG: https://github.com/kimon222/ETF_Analyzer_VectorDB
 
 <!--
 **kimonmono986/kimonmono986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
